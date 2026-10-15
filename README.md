@@ -13,6 +13,7 @@ Une application web moderne qui explore l'univers **Dragon Ball Z** en consomman
 ## ✨ Aperçu
 
 ![Aperçu de l'application](./screenshots/screenshot.png)
+![Aperçu de l'applicationcu](./screenshots/dragon.png)
 
 ---
 
